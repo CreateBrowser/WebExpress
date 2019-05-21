@@ -7,7 +7,7 @@
   [![Build Downloader](https://raw.githubusercontent.com/CreateDownloader/KugouDownloader/master/Download.PNG)](https://github.com/CreateBrowser/WebExpress/releases/tag/v1.0)
 
 ***
-## **`NOT Microsoft .NET Framework 4.5.2`**
+## **`NOT Microsoft .NET Framework 4.5`**
 
 ***
 
